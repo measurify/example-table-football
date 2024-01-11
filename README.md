@@ -16,3 +16,7 @@ To setup the embedded system, the following steps need to be followed:
   <li>Install the SparkFun_ADXL345 library.</li>
   <li>Set up the connectios between the Arduino Due and the sensors the following way: </li>
 </ul>
+
+![Connections' Diagram](images/figure1.jpg?raw=true "Connections' Diagram")
+
+
